@@ -1,4 +1,4 @@
-package com.example.hello;
+package com.everestcorp.coldstorage.apps.store;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

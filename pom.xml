@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hello</groupId>
-	<artifactId>hello-world</artifactId>
+	<artifactId>everest-coldstorage</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 	<name>HelloWorld</name>

@@ -1,4 +1,4 @@
-package com.example.hello.controller;
+package com.everestcorp.coldstorage.apps.store.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;

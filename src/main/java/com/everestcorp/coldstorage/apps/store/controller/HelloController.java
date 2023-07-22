@@ -1,4 +1,4 @@
-package com.example.hello.controller;
+package com.everestcorp.coldstorage.apps.store.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
